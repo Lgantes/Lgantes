@@ -1,6 +1,3 @@
-
-
-
 ![Sistemas](Img/sistemas.png)  <img src="imagenes/venaduki...png" alt="venado" width="345"/>
 
 Excelente al visitar este tu espacio 🐿 ✨ Lupitha Gantes ✨.
