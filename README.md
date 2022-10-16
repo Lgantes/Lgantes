@@ -1,4 +1,4 @@
-![Sistemas](Img/sistemas.png)  <img src="imagenes/venaduki...png" alt="venado" width="345"/>
+![Sistemas](Img/sistemas.png)  <img src="imagen/venaduki...png" alt="venado" width="345"/>
 
 Excelente al visitar este tu espacio 🐿 ✨ Lupitha Gantes ✨.
 
