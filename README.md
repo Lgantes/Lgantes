@@ -13,17 +13,17 @@
 
 
 ---------------------------------------------------------
-| **Martes** | **Lunes** | **Miercoles** | **Jueves** |
+| **Lunes** | **Martes** | **Miercoles** | **Jueves** |
 |:----------:|-----------|:-------------:|:----------:|
-|    9305    |    LCLC   |      9305     |    LCLB    |
-|    16/17   |   16/17   |     16/17     |    16/17   |
+|    LCLB    |    LCLB   |      9301     |    91L4    |
+|    15/16   |   15/16   |     15/16     |    15/16   |
   
   
 
 *Nombre del maestro:* RENE SOLIS REYES.
 
 
-*Materia:* Lenguajez de Interfaz.
+*Materia:* Sistemas Programables.
 
 
 Herramientas para clases 
